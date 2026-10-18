@@ -1,7 +1,6 @@
 # HomeLearnAI v2 (React + Node.js + SQLite)
 
-This directory is a from-scratch rewrite of the HomeLearnAI Laravel/HTMX/PostgreSQL
-application living at the repository root. The original app is left untouched for
+This directory is a from-scratch rewrite of the HomeLearnAI
 reference during the migration.
 
 ## Stack
